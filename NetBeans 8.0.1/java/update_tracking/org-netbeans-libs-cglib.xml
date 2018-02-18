@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.cglib/1">
+    <module_version install_time="1408977763116" last="true" origin="installer" specification_version="1.23.1">
+        <file crc="881319839" name="config/Modules/org-netbeans-libs-cglib.xml"/>
+        <file crc="3344373547" name="modules/ext/cglib-2.2.jar"/>
+        <file crc="2628442706" name="modules/locale/org-netbeans-libs-cglib_ja.jar"/>
+        <file crc="504732534" name="modules/locale/org-netbeans-libs-cglib_pt_BR.jar"/>
+        <file crc="2593523350" name="modules/locale/org-netbeans-libs-cglib_ru.jar"/>
+        <file crc="1825285179" name="modules/locale/org-netbeans-libs-cglib_zh_CN.jar"/>
+        <file crc="219502905" name="modules/org-netbeans-libs-cglib.jar"/>
+    </module_version>
+</module>

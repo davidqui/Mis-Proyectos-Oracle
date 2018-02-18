@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui">
+    <h:head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <!-- 
+                Template 2017 Hosting
+            http://www.tooplate.com/view/2017-hosting
+        -->
+        <title>Hosting Template - Shared Hosting</title>
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+        <link href="tooplate_style.css" rel="stylesheet" type="text/css" />
+    </h:head>
+    <h:body>
+
+        <div id="tooplate_wrapper">
+            <div id="tooplate_header">
+
+                <div id="site_title"><h1><a href="#">Hosting Template</a></h1></div>
+                <div id="header_right">
+
+                    <div id="header_contactus">
+                        Toll Free: <span> 1 800 203 2891</span><br />
+                        Local Free: <span> 1 800 624 4125</span><br />
+                    </div>
+
+                    <div id="tooplate_menu">
+                        <ul>
+                            <li><a href="faces/index.xhtml">Home</a></li>
+                            <li><a href="faces/webhosting.xhtml" class="current">Web Hosting</a></li>
+                            <li><a href="vps.xhtml">VPS Hosting</a></li>
+                            <li><a href="dedicatedservers.xhtml">Dedicated Servers</a></li>
+                            <li><a href="faces/contact.xhtml">Contact</a></li>
+                        </ul>    	
+                    </div> <!-- end of tooplate_menu -->
+
+                </div>
+            </div> <!-- end of header -->
+
+            <div id="tooplate_middle">
+                <span class="middle_icon"></span>
+                <em>The Cheapest and The Best Hosting</em>
+                <h1>Unlimited Web Hosting</h1>        
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque gravida elementum commodo. Duis consequat rhoncus neque. Validate <a href="http://validator.w3.org/check?uri=referer" rel="nofollow"><strong> XHTML</strong></a> and <a href="http://jigsaw.w3.org/css-validator/check/referer" rel="nofollow"><strong>CSS</strong></a>.</p>
+                <div class="cleaner"></div>
+                <a class="more float_l" href="#">Sign Up</a>
+                <div class="cleaner"></div>
+            </div> <!-- end of tooplate_middle -->
+
+            <div id="tooplate_main">
+
+                <h2>Shared Hosting Plans</h2>
+                <h:form>
+                    <p:dataTable value="#{hosting.listaHosting}" var="host"
+                                 resizableColumns="true" rows="5"
+                                 paginator="true"
+                                 paginatorTemplate="{CurrentPageReport} {FirstPageLink} {PreviousPageLink} {PageLinks} {NextPageLink} {LastPageLink} {RowsPerPageDropdown}"
+                                 rowsPerPageTemplate="5,10,15">                   
+                        <p:column headerText="Features"  >
+                            <h:outputText value="#{host.features}" />
+                        </p:column>                        
+                        <p:column headerText="Plan One" >
+                            <h:outputText value="#{host.planOne}" />
+                        </p:column> 
+                        <p:column headerText="Plan Two" >
+                            <h:outputText value="#{host.planTwo}" />
+                        </p:column> 
+                        <p:column headerText="Plan">
+                            <h:outputText value="#{host.planThree}" />
+                        </p:column> 
+                    </p:dataTable>
+                </h:form>
+                <table>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="signup">$180<a href="#" class="more">Sign Up</a></td>
+                        <td class="signup">$240<a href="#" class="more">Sign Up</a></td>
+                        <td class="signup">$340<a href="#" class="more">Sign Up</a></td>
+                    </tr>
+                </table>
+                <h1>Shared Domain/FTP Features</h1>
+                <h:form>
+                    <p:dataTable value="#{hosting.listaDomainFtpFeatures}" var="dom"
+                                 resizableColumns="true" rows="3"
+                                 paginator="true"
+                                 paginatorTemplate="{CurrentPageReport} {FirstPageLink} {PreviousPageLink} {PageLinks} {NextPageLink} {LastPageLink} {RowsPerPageDropdown}"
+                                 rowsPerPageTemplate="5,10,15">                   
+                        <p:column headerText="Domain /FTP Features"  >
+                            <h:outputText value="#{dom.features}" />
+                        </p:column>                        
+                        <p:column headerText="Plan One" >
+                            <h:outputText value="#{dom.planOne}" />
+                        </p:column> 
+                        <p:column headerText="Plan Two" >
+                            <h:outputText value="#{dom.planTwo}" />
+                        </p:column> 
+                        <p:column headerText="Plan Three">
+                            <h:outputText value="#{dom.planThree}" />
+                        </p:column> 
+                    </p:dataTable>
+                </h:form>
+                <br></br>
+                 <h1>TERCERA TABLA</h1>
+                 <h:form>
+                     <p:dataTable value="#{hosting.listaEmailFeatures}" var="Em"
+                                 resizableColumns="true" rows="3"
+                                 paginator="true"
+                                 paginatorTemplate="{CurrentPageReport} {FirstPageLink} {PreviousPageLink} {PageLinks} {NextPageLink} {LastPageLink} {RowsPerPageDropdown}"
+                                 rowsPerPageTemplate="5,10,15">                   
+                        <p:column headerText="Email Features"  >
+                            <h:outputText value="#{Em.features}" />
+                        </p:column>                        
+                        <p:column headerText="Plan One" >
+                            <h:outputText value="#{Em.planOne}" />
+                        </p:column> 
+                        <p:column headerText="Plan Two" >
+                            <h:outputText value="#{Em.planTwo}" />
+                        </p:column> 
+                        <p:column headerText="Plan Three">
+                            <h:outputText value="#{Em.planThree}" />
+                        </p:column> 
+                    </p:dataTable>
+                </h:form>
+               
+                <div class="cleaner"></div>
+            </div> <!-- end of tooplate_main -->
+
+            <div id="tooplate_footer">
+
+                <a href="#">Home</a> | <a href="#">Hosting Features</a> | <a href="#">Contact</a> | <a href="#">About Us</a> | <a href="#">Affiliates</a> | <a href="#">Terms</a><br />
+
+                Copyright © 2017 <a href="#">Company Name</a> - Designed by <a href="http://www.tooplate.com">HTML Templates</a>
+
+            </div>
+
+            <div class="cleaner"></div>
+        </div> <!-- end of forever wrapper -->
+        <!--   Free Website Template by t o o p l a t e . c o m   -->
+    </h:body>
+</html>

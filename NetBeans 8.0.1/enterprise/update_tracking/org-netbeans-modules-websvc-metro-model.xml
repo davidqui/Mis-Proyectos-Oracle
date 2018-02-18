@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.metro.model">
+    <module_version install_time="1408982963847" last="true" origin="installer" specification_version="1.22.1">
+        <file crc="2466636725" name="config/Modules/org-netbeans-modules-websvc-metro-model.xml"/>
+        <file crc="2355169665" name="modules/locale/org-netbeans-modules-websvc-metro-model_ja.jar"/>
+        <file crc="3905152158" name="modules/locale/org-netbeans-modules-websvc-metro-model_pt_BR.jar"/>
+        <file crc="3519451326" name="modules/locale/org-netbeans-modules-websvc-metro-model_ru.jar"/>
+        <file crc="743619016" name="modules/locale/org-netbeans-modules-websvc-metro-model_zh_CN.jar"/>
+        <file crc="1321348359" name="modules/org-netbeans-modules-websvc-metro-model.jar"/>
+    </module_version>
+</module>

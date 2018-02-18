@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.spring.webmvc">
+    <module_version install_time="1408983399682" last="true" origin="installer" specification_version="1.35.1">
+        <file crc="4253315946" name="config/Modules/org-netbeans-modules-spring-webmvc.xml"/>
+        <file crc="1972045111" name="modules/locale/org-netbeans-modules-spring-webmvc_ja.jar"/>
+        <file crc="312835611" name="modules/locale/org-netbeans-modules-spring-webmvc_pt_BR.jar"/>
+        <file crc="2200149319" name="modules/locale/org-netbeans-modules-spring-webmvc_ru.jar"/>
+        <file crc="3581959271" name="modules/locale/org-netbeans-modules-spring-webmvc_zh_CN.jar"/>
+        <file crc="170444885" name="modules/org-netbeans-modules-spring-webmvc.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.maven/2">
+    <module_version install_time="1408981645370" last="false" origin="installer" specification_version="2.107.1">
+        <file crc="1990391501" name="config/Modules/org-netbeans-modules-maven.xml"/>
+        <file crc="2998140504" name="maven-nblib/netbeans-cos.jar"/>
+        <file crc="2937943229" name="maven-nblib/netbeans-eventspy.jar"/>
+        <file crc="2245891088" name="modules/locale/org-netbeans-modules-maven_ja.jar"/>
+        <file crc="1489090316" name="modules/locale/org-netbeans-modules-maven_pt_BR.jar"/>
+        <file crc="1898356751" name="modules/locale/org-netbeans-modules-maven_ru.jar"/>
+        <file crc="3152586972" name="modules/locale/org-netbeans-modules-maven_zh_CN.jar"/>
+        <file crc="2541851859" name="modules/org-netbeans-modules-maven.jar"/>
+    </module_version>
+    <module_version install_time="1505244774417" last="true" origin="NetBeans Distribution" specification_version="2.107.5">
+        <file crc="1990391501" name="config/Modules/org-netbeans-modules-maven.xml"/>
+        <file crc="3647508011" name="maven-nblib/netbeans-cos.jar"/>
+        <file crc="2862539424" name="maven-nblib/netbeans-eventspy.jar"/>
+        <file crc="2819047761" name="modules/locale/org-netbeans-modules-maven_ja.jar"/>
+        <file crc="1891541082" name="modules/locale/org-netbeans-modules-maven_pt_BR.jar"/>
+        <file crc="3840376606" name="modules/locale/org-netbeans-modules-maven_ru.jar"/>
+        <file crc="161970725" name="modules/locale/org-netbeans-modules-maven_zh_CN.jar"/>
+        <file crc="3303564080" name="modules/org-netbeans-modules-maven.jar"/>
+    </module_version>
+</module>

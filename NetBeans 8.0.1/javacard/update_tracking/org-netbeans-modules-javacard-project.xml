@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javacard.project/2">
+    <module_version install_time="1408981731091" last="true" origin="installer" specification_version="1.52.1">
+        <file crc="1325281366" name="config/Modules/org-netbeans-modules-javacard-project.xml"/>
+        <file crc="1442241630" name="modules/docs/org-netbeans-modules-javacard-project.jar"/>
+        <file crc="3204852072" name="modules/locale/org-netbeans-modules-javacard-project_ja.jar"/>
+        <file crc="929699827" name="modules/locale/org-netbeans-modules-javacard-project_pt_BR.jar"/>
+        <file crc="2510012675" name="modules/locale/org-netbeans-modules-javacard-project_ru.jar"/>
+        <file crc="431267253" name="modules/locale/org-netbeans-modules-javacard-project_zh_CN.jar"/>
+        <file crc="1504665328" name="modules/org-netbeans-modules-javacard-project.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.core.ide/1">
+    <module_version install_time="1408980668713" last="true" origin="installer" specification_version="1.37.1">
+        <file crc="577140527" name="config/Modules/org-netbeans-core-ide.xml"/>
+        <file crc="2479837135" name="modules/locale/org-netbeans-core-ide_ja.jar"/>
+        <file crc="353245845" name="modules/locale/org-netbeans-core-ide_pt_BR.jar"/>
+        <file crc="1739702716" name="modules/locale/org-netbeans-core-ide_ru.jar"/>
+        <file crc="4155978324" name="modules/locale/org-netbeans-core-ide_zh_CN.jar"/>
+        <file crc="2668682938" name="modules/org-netbeans-core-ide.jar"/>
+    </module_version>
+</module>

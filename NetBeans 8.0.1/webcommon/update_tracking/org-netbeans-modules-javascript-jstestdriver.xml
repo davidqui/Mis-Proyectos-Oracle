@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript.jstestdriver">
+    <module_version install_time="1408983221919" last="true" origin="installer" specification_version="0.7.1">
+        <file crc="2558934600" name="config/Modules/org-netbeans-modules-javascript-jstestdriver.xml"/>
+        <file crc="1126032846" name="modules/locale/org-netbeans-modules-javascript-jstestdriver_ja.jar"/>
+        <file crc="3165979076" name="modules/locale/org-netbeans-modules-javascript-jstestdriver_pt_BR.jar"/>
+        <file crc="2560062036" name="modules/locale/org-netbeans-modules-javascript-jstestdriver_ru.jar"/>
+        <file crc="1347352914" name="modules/locale/org-netbeans-modules-javascript-jstestdriver_zh_CN.jar"/>
+        <file crc="2850555953" name="modules/org-netbeans-modules-javascript-jstestdriver.jar"/>
+    </module_version>
+</module>

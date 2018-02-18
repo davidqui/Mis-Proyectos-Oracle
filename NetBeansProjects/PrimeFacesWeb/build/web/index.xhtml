@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:p="http://primefaces.org/ui">
+    <h:head>
+        <title>Login</title>        
+    </h:head>
+    <h:body>
+        <h2>Datos Usuario</h2>
+        <h:form>
+            <h:panelGrid columns="4">
+                <p:outputLabel id="labelNombre" value="Nombre:"/>
+                <p:inputText id="nombre" value="#{login.usuario}" required="true" requiredMessage="Campo Requerido" validatorMessage="Longitud de campo incorrecta">
+                    <f:validateLength minimum="2" maximum="10" for="nombre"/> 
+                </p:inputText>
+                <p:message for="nombre" />
+                <br></br>
+                <p:outputLabel id="labelSalario" value="Salario:"/>
+                <p:inputText id="salario" value="#{login.salario}" required="true" requiredMessage="Campo Requerido"> 
+                    <f:convertNumber type="currency"/> 
+                </p:inputText>                
+                <p:message for="salario" />
+              
+               <br></br>
+                <p:outputLabel id="labelApellidos" value="Apellidos: "/>
+                <p:inputText id="apellidos" value="#{login.apellidos}" required="true" requiredMessage="Campo Requerido">                   
+                <p:message for="apellidos" style="color:red" />
+                <f:validateLength minimum="5" maximum="15" for="apellidos"/>
+                </p:inputText>
+               
+                <p:outputLabel id="labelPassword" value="Passwor: "/>
+                <p:inputText id="password" value="#{login.password}" required="true" requiredMessage="Campo Requerido">
+               </p:inputText>
+                
+                <h:commandButton value="Enviar" action="#{login.crearUsuario()}"/>
+            </h:panelGrid>
+        </h:form>
+    </h:body>
+</html>

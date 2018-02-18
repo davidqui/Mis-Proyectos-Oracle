@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.languages.diff">
+    <module_version install_time="1408980781882" last="true" origin="installer" specification_version="1.29.1">
+        <file crc="3703025839" name="config/Modules/org-netbeans-modules-languages-diff.xml"/>
+        <file crc="4017161149" name="modules/locale/org-netbeans-modules-languages-diff_ja.jar"/>
+        <file crc="2519329244" name="modules/locale/org-netbeans-modules-languages-diff_pt_BR.jar"/>
+        <file crc="742247374" name="modules/locale/org-netbeans-modules-languages-diff_ru.jar"/>
+        <file crc="347311246" name="modules/locale/org-netbeans-modules-languages-diff_zh_CN.jar"/>
+        <file crc="659465471" name="modules/org-netbeans-modules-languages-diff.jar"/>
+    </module_version>
+</module>

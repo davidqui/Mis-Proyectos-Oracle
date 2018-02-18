@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.bugtracking">
+    <module_version install_time="1408979924314" last="false" origin="installer" specification_version="1.102.1">
+        <file crc="3527920300" name="config/Modules/org-netbeans-modules-bugtracking.xml"/>
+        <file crc="1839847720" name="modules/locale/org-netbeans-modules-bugtracking_ja.jar"/>
+        <file crc="815459640" name="modules/locale/org-netbeans-modules-bugtracking_pt_BR.jar"/>
+        <file crc="1444318986" name="modules/locale/org-netbeans-modules-bugtracking_ru.jar"/>
+        <file crc="4021382684" name="modules/locale/org-netbeans-modules-bugtracking_zh_CN.jar"/>
+        <file crc="2209700449" name="modules/org-netbeans-modules-bugtracking.jar"/>
+    </module_version>
+    <module_version install_time="1505244759199" last="true" origin="NetBeans Distribution" specification_version="1.102.2">
+        <file crc="3527920300" name="config/Modules/org-netbeans-modules-bugtracking.xml"/>
+        <file crc="3213582247" name="modules/locale/org-netbeans-modules-bugtracking_ja.jar"/>
+        <file crc="2310070551" name="modules/locale/org-netbeans-modules-bugtracking_pt_BR.jar"/>
+        <file crc="3095189372" name="modules/locale/org-netbeans-modules-bugtracking_ru.jar"/>
+        <file crc="4068370576" name="modules/locale/org-netbeans-modules-bugtracking_zh_CN.jar"/>
+        <file crc="3679867674" name="modules/org-netbeans-modules-bugtracking.jar"/>
+    </module_version>
+</module>

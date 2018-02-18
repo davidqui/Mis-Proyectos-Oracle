@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.cordova">
+    <module_version install_time="1408983197176" last="false" origin="installer" specification_version="1.26.1">
+        <file crc="1742073512" name="ant/extra/org-netbeans-modules-cordova-projectupdate.jar"/>
+        <file crc="106554097" name="config/Modules/org-netbeans-modules-cordova.xml"/>
+        <file crc="1111154389" name="modules/locale/org-netbeans-modules-cordova_ja.jar"/>
+        <file crc="2067834462" name="modules/locale/org-netbeans-modules-cordova_pt_BR.jar"/>
+        <file crc="2111944484" name="modules/locale/org-netbeans-modules-cordova_ru.jar"/>
+        <file crc="3570630055" name="modules/locale/org-netbeans-modules-cordova_zh_CN.jar"/>
+        <file crc="354131854" name="modules/org-netbeans-modules-cordova.jar"/>
+    </module_version>
+    <module_version install_time="1505244765329" last="true" origin="NetBeans Distribution" specification_version="1.26.3">
+        <file crc="2221542692" name="ant/extra/org-netbeans-modules-cordova-projectupdate.jar"/>
+        <file crc="106554097" name="config/Modules/org-netbeans-modules-cordova.xml"/>
+        <file crc="3907942667" name="modules/locale/org-netbeans-modules-cordova_ja.jar"/>
+        <file crc="2043963931" name="modules/locale/org-netbeans-modules-cordova_pt_BR.jar"/>
+        <file crc="2642391072" name="modules/locale/org-netbeans-modules-cordova_ru.jar"/>
+        <file crc="1713320407" name="modules/locale/org-netbeans-modules-cordova_zh_CN.jar"/>
+        <file crc="2519824703" name="modules/org-netbeans-modules-cordova.jar"/>
+    </module_version>
+</module>

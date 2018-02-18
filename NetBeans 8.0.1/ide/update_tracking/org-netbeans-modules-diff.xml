@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.diff/1">
+    <module_version install_time="1408980951886" last="true" origin="installer" specification_version="1.47.1.42.1">
+        <file crc="4024982772" name="config/Modules/org-netbeans-modules-diff.xml"/>
+        <file crc="357037225" name="modules/locale/org-netbeans-modules-diff_ja.jar"/>
+        <file crc="953306201" name="modules/locale/org-netbeans-modules-diff_pt_BR.jar"/>
+        <file crc="908187455" name="modules/locale/org-netbeans-modules-diff_ru.jar"/>
+        <file crc="1725239748" name="modules/locale/org-netbeans-modules-diff_zh_CN.jar"/>
+        <file crc="3529278402" name="modules/org-netbeans-modules-diff.jar"/>
+    </module_version>
+</module>

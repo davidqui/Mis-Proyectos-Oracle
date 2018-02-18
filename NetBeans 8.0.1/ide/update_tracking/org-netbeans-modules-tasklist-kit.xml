@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.tasklist.kit">
+    <module_version install_time="1408980502284" last="true" origin="installer" specification_version="1.25.1">
+        <file crc="4190722416" name="config/Modules/org-netbeans-modules-tasklist-kit.xml"/>
+        <file crc="1966251569" name="modules/locale/org-netbeans-modules-tasklist-kit_ja.jar"/>
+        <file crc="4068605083" name="modules/locale/org-netbeans-modules-tasklist-kit_pt_BR.jar"/>
+        <file crc="2645614907" name="modules/locale/org-netbeans-modules-tasklist-kit_ru.jar"/>
+        <file crc="1495491389" name="modules/locale/org-netbeans-modules-tasklist-kit_zh_CN.jar"/>
+        <file crc="547764501" name="modules/org-netbeans-modules-tasklist-kit.jar"/>
+    </module_version>
+</module>

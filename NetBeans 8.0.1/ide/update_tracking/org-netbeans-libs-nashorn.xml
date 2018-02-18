@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.nashorn/1">
+    <module_version install_time="1408977859480" last="true" origin="installer" specification_version="1.16.1">
+        <file crc="250435371" name="config/Modules/org-netbeans-libs-nashorn.xml"/>
+        <file crc="4227243350" name="modules/ext/asm-all-4.0.jar"/>
+        <file crc="685743028" name="modules/ext/nashorn-02f810c26ff9-patched.jar"/>
+        <file crc="761830063" name="modules/locale/org-netbeans-libs-nashorn_ja.jar"/>
+        <file crc="3766070254" name="modules/locale/org-netbeans-libs-nashorn_pt_BR.jar"/>
+        <file crc="3758909111" name="modules/locale/org-netbeans-libs-nashorn_ru.jar"/>
+        <file crc="2917725789" name="modules/locale/org-netbeans-libs-nashorn_zh_CN.jar"/>
+        <file crc="4064076219" name="modules/org-netbeans-libs-nashorn.jar"/>
+    </module_version>
+</module>

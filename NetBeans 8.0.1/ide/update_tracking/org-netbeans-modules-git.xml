@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.git">
+    <module_version install_time="1408983512120" last="false" origin="installer" specification_version="1.16.1.1">
+        <file crc="3921126311" name="config/Modules/org-netbeans-modules-git.xml"/>
+        <file crc="2810233085" name="modules/locale/org-netbeans-modules-git_ja.jar"/>
+        <file crc="3832383689" name="modules/locale/org-netbeans-modules-git_pt_BR.jar"/>
+        <file crc="2962069898" name="modules/locale/org-netbeans-modules-git_ru.jar"/>
+        <file crc="598994683" name="modules/locale/org-netbeans-modules-git_zh_CN.jar"/>
+        <file crc="1564702295" name="modules/org-netbeans-modules-git.jar"/>
+    </module_version>
+    <module_version install_time="1505244761669" last="true" origin="NetBeans Distribution" specification_version="1.16.2.1">
+        <file crc="3921126311" name="config/Modules/org-netbeans-modules-git.xml"/>
+        <file crc="4221699571" name="modules/locale/org-netbeans-modules-git_ja.jar"/>
+        <file crc="3987512207" name="modules/locale/org-netbeans-modules-git_pt_BR.jar"/>
+        <file crc="4115104167" name="modules/locale/org-netbeans-modules-git_ru.jar"/>
+        <file crc="102418625" name="modules/locale/org-netbeans-modules-git_zh_CN.jar"/>
+        <file crc="2277894776" name="modules/org-netbeans-modules-git.jar"/>
+    </module_version>
+</module>

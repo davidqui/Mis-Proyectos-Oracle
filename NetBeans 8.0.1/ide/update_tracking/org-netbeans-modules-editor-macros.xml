@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.editor.macros/0">
+    <module_version install_time="1408980370601" last="true" origin="installer" specification_version="1.27.1.1.22">
+        <file crc="3196086936" name="config/Modules/org-netbeans-modules-editor-macros.xml"/>
+        <file crc="466121095" name="modules/locale/org-netbeans-modules-editor-macros_ja.jar"/>
+        <file crc="302393220" name="modules/locale/org-netbeans-modules-editor-macros_pt_BR.jar"/>
+        <file crc="423961096" name="modules/locale/org-netbeans-modules-editor-macros_ru.jar"/>
+        <file crc="1855938828" name="modules/locale/org-netbeans-modules-editor-macros_zh_CN.jar"/>
+        <file crc="2552959097" name="modules/org-netbeans-modules-editor-macros.jar"/>
+    </module_version>
+</module>

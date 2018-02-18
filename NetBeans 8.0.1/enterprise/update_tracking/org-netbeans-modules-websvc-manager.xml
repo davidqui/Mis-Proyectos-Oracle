@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.manager">
+    <module_version install_time="1408982997382" last="true" origin="installer" specification_version="1.27.1">
+        <file crc="4058672979" name="config/Modules/org-netbeans-modules-websvc-manager.xml"/>
+        <file crc="3338678476" name="modules/ext/build-ws.xml"/>
+        <file crc="1083145916" name="modules/locale/org-netbeans-modules-websvc-manager_ja.jar"/>
+        <file crc="527815207" name="modules/locale/org-netbeans-modules-websvc-manager_pt_BR.jar"/>
+        <file crc="2619515279" name="modules/locale/org-netbeans-modules-websvc-manager_ru.jar"/>
+        <file crc="391945031" name="modules/locale/org-netbeans-modules-websvc-manager_zh_CN.jar"/>
+        <file crc="392511839" name="modules/org-netbeans-modules-websvc-manager.jar"/>
+    </module_version>
+</module>

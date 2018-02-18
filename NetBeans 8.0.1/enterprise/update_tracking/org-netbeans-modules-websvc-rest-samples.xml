@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.rest.samples/0">
+    <module_version install_time="1408981815559" last="true" origin="installer" specification_version="1.22.1">
+        <file crc="779596894" name="config/Modules/org-netbeans-modules-websvc-rest-samples.xml"/>
+        <file crc="4136495243" name="modules/locale/org-netbeans-modules-websvc-rest-samples_ja.jar"/>
+        <file crc="2992389212" name="modules/locale/org-netbeans-modules-websvc-rest-samples_pt_BR.jar"/>
+        <file crc="679913402" name="modules/locale/org-netbeans-modules-websvc-rest-samples_ru.jar"/>
+        <file crc="567064599" name="modules/locale/org-netbeans-modules-websvc-rest-samples_zh_CN.jar"/>
+        <file crc="1882888157" name="modules/org-netbeans-modules-websvc-rest-samples.jar"/>
+    </module_version>
+</module>

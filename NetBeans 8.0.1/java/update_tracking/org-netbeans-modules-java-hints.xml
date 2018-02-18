@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.java.hints/1">
+    <module_version install_time="1408982765992" last="false" origin="installer" specification_version="1.76.1.15.10.1.32.1.13">
+        <file crc="3928977717" name="config/Modules/org-netbeans-modules-java-hints.xml"/>
+        <file crc="2678199903" name="modules/locale/org-netbeans-modules-java-hints_ja.jar"/>
+        <file crc="2381842168" name="modules/locale/org-netbeans-modules-java-hints_pt_BR.jar"/>
+        <file crc="128086478" name="modules/locale/org-netbeans-modules-java-hints_ru.jar"/>
+        <file crc="1741132227" name="modules/locale/org-netbeans-modules-java-hints_zh_CN.jar"/>
+        <file crc="2844820287" name="modules/org-netbeans-modules-java-hints.jar"/>
+    </module_version>
+    <module_version install_time="1505244772415" last="true" origin="NetBeans Distribution" specification_version="1.76.2.15.10.1.32.1.13">
+        <file crc="3928977717" name="config/Modules/org-netbeans-modules-java-hints.xml"/>
+        <file crc="1191863784" name="modules/locale/org-netbeans-modules-java-hints_ja.jar"/>
+        <file crc="576114807" name="modules/locale/org-netbeans-modules-java-hints_pt_BR.jar"/>
+        <file crc="3567821572" name="modules/locale/org-netbeans-modules-java-hints_ru.jar"/>
+        <file crc="4111107021" name="modules/locale/org-netbeans-modules-java-hints_zh_CN.jar"/>
+        <file crc="1899843732" name="modules/org-netbeans-modules-java-hints.jar"/>
+    </module_version>
+</module>

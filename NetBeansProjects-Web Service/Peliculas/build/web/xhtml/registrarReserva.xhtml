@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:p="http://primefaces.org/ui">
+    <h:head>
+        <title>Facelet Title</title>
+    </h:head>
+    <h:body>
+        <f:view>
+            <h:form id="form">
+                <ui:include src="menuSuperior.xhtml" />
+                <ui:include src="menuIzquierda.xhtml" /> 
+                <p:panelGrid styleClass="content">
+                    <h:outputText styleClass="content content_h2" value="CheckOut"/>
+                    <p:panelGrid columns="3" rendered="true"
+                                 styleClass="content">
+                        <f:facet name="header">
+                            <h:outputText value="Detalles de la Reserva" styleClass="box_title"/>
+                        </f:facet>
+                        <h:outputText value="Usuario" styleClass="box_title"/>
+                        <h:inputText id="idusuario" required="true"   value="#{peliculasBean.principal}"
+                                     disabled="true" requiredMessage="Campo Requerido!" style="font-family: Verdana;font-size: 12px;font-size:small"/>
+                        <h:message for="idusuario" styleClass="error"/>
+                        <h:outputText value="Comentarios" styleClass="box_title" />
+                        <h:inputTextarea id="comentarios" required="true"
+                                         value="#{peliculasBean.reserva.descripcion}"
+                                         requiredMessage="Campo Requerido!" style="font-family: Verdana;font-size: 12px;font-size:small"
+                                         />
+                        <h:message for="comentarios" styleClass="error"/>
+                        <h:outputText value="Fecha" styleClass="box_title"/>
+                        <h:inputText id="funcion" required="true"
+                                     value="#{peliculasBean.reserva.descripcion}"
+                                         requiredMessage="Campo Requerido!" style="font-family: Verdana;font-size: 12px;font-size:small"
+                                         />
+                        <h:message for="funcion" styleClass="error"/>
+                        <h:outputText value="Ubicacion" styleClass="box_title"/>
+                        <h:inputText id="ubicacion" required="true"
+                                     value="#{peliculasBean.reserva.funcion}" 
+                                     requiredMessage="Campo Requerido!" style="font-family: Verdana;font-size: 12px;font-size:small"/>   
+                        <h:message for="ubicacion" styleClass="error"/>          
+                        <h:outputText value=" "/>
+                        <h:commandButton value="Reservar" action="#{peliculasBean.checkOut}" style="font-family: Verdana;font-size: 12px;font-size:small"/>
+                    </p:panelGrid>
+                </p:panelGrid>
+            </h:form>
+        </f:view>
+    </h:body>
+</html>
+

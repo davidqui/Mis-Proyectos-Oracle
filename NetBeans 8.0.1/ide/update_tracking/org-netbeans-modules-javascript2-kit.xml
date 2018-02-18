@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript2.kit/1">
+    <module_version install_time="1408982000052" last="true" origin="installer" specification_version="0.9.1">
+        <file crc="552371641" name="config/Modules/org-netbeans-modules-javascript2-kit.xml"/>
+        <file crc="707903808" name="modules/locale/org-netbeans-modules-javascript2-kit_ja.jar"/>
+        <file crc="1018560022" name="modules/locale/org-netbeans-modules-javascript2-kit_pt_BR.jar"/>
+        <file crc="1688437448" name="modules/locale/org-netbeans-modules-javascript2-kit_ru.jar"/>
+        <file crc="1564478427" name="modules/locale/org-netbeans-modules-javascript2-kit_zh_CN.jar"/>
+        <file crc="1424088453" name="modules/org-netbeans-modules-javascript2-kit.jar"/>
+    </module_version>
+</module>

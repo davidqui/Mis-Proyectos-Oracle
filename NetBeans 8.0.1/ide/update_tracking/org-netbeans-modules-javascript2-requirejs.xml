@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript2.requirejs">
+    <module_version install_time="1408981994415" last="true" origin="installer" specification_version="0.1.1">
+        <file crc="2562950255" name="config/Modules/org-netbeans-modules-javascript2-requirejs.xml"/>
+        <file crc="1753267520" name="modules/locale/org-netbeans-modules-javascript2-requirejs_ja.jar"/>
+        <file crc="2601378115" name="modules/locale/org-netbeans-modules-javascript2-requirejs_pt_BR.jar"/>
+        <file crc="3078102579" name="modules/locale/org-netbeans-modules-javascript2-requirejs_ru.jar"/>
+        <file crc="771467008" name="modules/locale/org-netbeans-modules-javascript2-requirejs_zh_CN.jar"/>
+        <file crc="3658245657" name="modules/org-netbeans-modules-javascript2-requirejs.jar"/>
+    </module_version>
+</module>

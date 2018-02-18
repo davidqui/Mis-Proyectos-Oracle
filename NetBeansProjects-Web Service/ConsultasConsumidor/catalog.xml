@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://169.254.2.35:7001/Consultas/EmpleadosService?WSDL" uri="xml-resources/web-service-references/EmpleadosService/wsdl/169.254.2.35_7001/Consultas/EmpleadosService.wsdl"/>
+    <system systemId="http://169.254.2.35:7001/Consultas/EmpleadosService?xsd=1" uri="xml-resources/web-service-references/EmpleadosService/wsdl/169.254.2.35_7001/Consultas/EmpleadosService.xsd_1.xsd"/>
+</catalog>

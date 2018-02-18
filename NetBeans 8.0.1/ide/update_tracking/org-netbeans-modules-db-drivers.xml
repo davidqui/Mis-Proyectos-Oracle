@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.db.drivers">
+    <module_version install_time="1408978276338" last="true" origin="installer" specification_version="1.26.1">
+        <file crc="153511136" name="config/Modules/org-netbeans-modules-db-drivers.xml"/>
+        <file crc="4212476859" name="modules/ext/mysql-connector-java-5.1.23-bin.jar"/>
+        <file crc="3429378714" name="modules/ext/postgresql-9.2-1002.jdbc4.jar"/>
+        <file crc="2828396518" name="modules/locale/org-netbeans-modules-db-drivers_ja.jar"/>
+        <file crc="2687898526" name="modules/locale/org-netbeans-modules-db-drivers_pt_BR.jar"/>
+        <file crc="447661669" name="modules/locale/org-netbeans-modules-db-drivers_ru.jar"/>
+        <file crc="3381077695" name="modules/locale/org-netbeans-modules-db-drivers_zh_CN.jar"/>
+        <file crc="3402439435" name="modules/org-netbeans-modules-db-drivers.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2me.project">
+    <module_version install_time="1408982839975" last="true" origin="installer" specification_version="1.4.1">
+        <file crc="3974667023" name="config/Modules/org-netbeans-modules-j2me-project.xml"/>
+        <file crc="3232023019" name="modules/locale/org-netbeans-modules-j2me-project_ja.jar"/>
+        <file crc="818186738" name="modules/locale/org-netbeans-modules-j2me-project_pt_BR.jar"/>
+        <file crc="1728465286" name="modules/locale/org-netbeans-modules-j2me-project_ru.jar"/>
+        <file crc="2536357898" name="modules/locale/org-netbeans-modules-j2me-project_zh_CN.jar"/>
+        <file crc="493122434" name="modules/org-netbeans-modules-j2me-project.jar"/>
+    </module_version>
+</module>

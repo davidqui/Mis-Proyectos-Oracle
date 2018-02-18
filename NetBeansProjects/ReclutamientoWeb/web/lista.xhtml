@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui"
+      xmlns:f="http://java.sun.com/jsf/core">
+    <h:head>
+        <title>Facelet Title</title>
+    </h:head>
+    <h:body>
+        <h:form id="form"> 
+            <p:dataTable id="tabla" value="#{pelicula.listaPeliculas}" var="peli" rows="3" paginator="true"
+                         paginatorTemplate="{CurrentPageReport} {FirstPageLink} {PreviousPageLink} {PageLinks} {NextPageLink} {LastPageLink} {RowsPerPageDropdown}"
+                         rowsPerPageTemplate="5,10,15" widgetVar="peliTabla">               
+               
+                <p:column headerText="Id">
+                    <h:outputText value="#{peli.id}" />
+                </p:column>
+                <p:column headerText="Titulo" sortBy="#{peli.titulo}" filterBy="#{peli.titulo}" >
+                    <h:outputText value="#{peli.titulo}" />
+                </p:column> 
+                <p:column headerText="Genero">
+                    <h:outputText value="#{peli.genero}" />
+                </p:column> 
+                <p:column headerText="Año">
+                    <h:outputText value="#{peli.ano}" />
+                </p:column>
+            </p:dataTable>
+            <h3>Exportar</h3>
+            <h:commandLink>
+                <p:outputLabel value="PDF"/>            
+                <p:dataExporter type="pdf" target="tabla" fileName="tabla" pageOnly="true"/>
+            </h:commandLink>
+        </h:form>
+    </h:body>
+</html>
+

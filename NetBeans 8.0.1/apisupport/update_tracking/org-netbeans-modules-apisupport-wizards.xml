@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.apisupport.wizards">
+    <module_version install_time="1408981562545" last="true" origin="installer" specification_version="1.15.1">
+        <file crc="1717181094" name="config/Modules/org-netbeans-modules-apisupport-wizards.xml"/>
+        <file crc="2393706552" name="modules/locale/org-netbeans-modules-apisupport-wizards_ja.jar"/>
+        <file crc="1541461032" name="modules/locale/org-netbeans-modules-apisupport-wizards_pt_BR.jar"/>
+        <file crc="3300625654" name="modules/locale/org-netbeans-modules-apisupport-wizards_ru.jar"/>
+        <file crc="3347404613" name="modules/locale/org-netbeans-modules-apisupport-wizards_zh_CN.jar"/>
+        <file crc="3959358412" name="modules/org-netbeans-modules-apisupport-wizards.jar"/>
+    </module_version>
+</module>

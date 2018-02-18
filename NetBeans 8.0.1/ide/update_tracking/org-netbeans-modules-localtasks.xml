@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.localtasks">
+    <module_version install_time="1408980662891" last="true" origin="installer" specification_version="1.21.1">
+        <file crc="2862236520" name="config/Modules/org-netbeans-modules-localtasks.xml"/>
+        <file crc="3232561761" name="modules/locale/org-netbeans-modules-localtasks_ja.jar"/>
+        <file crc="2220032700" name="modules/locale/org-netbeans-modules-localtasks_pt_BR.jar"/>
+        <file crc="988494711" name="modules/locale/org-netbeans-modules-localtasks_ru.jar"/>
+        <file crc="952481627" name="modules/locale/org-netbeans-modules-localtasks_zh_CN.jar"/>
+        <file crc="3246333533" name="modules/org-netbeans-modules-localtasks.jar"/>
+    </module_version>
+</module>

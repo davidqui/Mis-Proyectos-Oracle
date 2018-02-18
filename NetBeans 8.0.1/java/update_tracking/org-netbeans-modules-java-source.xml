@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.java.source">
+    <module_version install_time="1408981118963" last="false" origin="installer" specification_version="0.138.1.32.2.25.8">
+        <file crc="4176813532" name="config/Modules/org-netbeans-modules-java-source.xml"/>
+        <file crc="3518235380" name="modules/locale/org-netbeans-modules-java-source_ja.jar"/>
+        <file crc="504203509" name="modules/locale/org-netbeans-modules-java-source_pt_BR.jar"/>
+        <file crc="3602891531" name="modules/locale/org-netbeans-modules-java-source_ru.jar"/>
+        <file crc="3673403358" name="modules/locale/org-netbeans-modules-java-source_zh_CN.jar"/>
+        <file crc="2980094734" name="modules/org-netbeans-modules-java-source.jar"/>
+    </module_version>
+    <module_version install_time="1505244776108" last="true" origin="NetBeans Distribution" specification_version="0.138.3.32.2.25.8">
+        <file crc="4176813532" name="config/Modules/org-netbeans-modules-java-source.xml"/>
+        <file crc="1451538354" name="modules/locale/org-netbeans-modules-java-source_ja.jar"/>
+        <file crc="3148401308" name="modules/locale/org-netbeans-modules-java-source_pt_BR.jar"/>
+        <file crc="2187492561" name="modules/locale/org-netbeans-modules-java-source_ru.jar"/>
+        <file crc="2140705896" name="modules/locale/org-netbeans-modules-java-source_zh_CN.jar"/>
+        <file crc="2639985061" name="modules/org-netbeans-modules-java-source.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2eeserver/4">
+    <module_version install_time="1408981784438" last="true" origin="installer" specification_version="1.107.1.1">
+        <file crc="2182297682" name="config/Modules/org-netbeans-modules-j2eeserver.xml"/>
+        <file crc="2793038658" name="modules/locale/org-netbeans-modules-j2eeserver_ja.jar"/>
+        <file crc="3082934565" name="modules/locale/org-netbeans-modules-j2eeserver_pt_BR.jar"/>
+        <file crc="2043859996" name="modules/locale/org-netbeans-modules-j2eeserver_ru.jar"/>
+        <file crc="3910510318" name="modules/locale/org-netbeans-modules-j2eeserver_zh_CN.jar"/>
+        <file crc="2477721912" name="modules/org-netbeans-modules-j2eeserver.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.debugger.jpda.visual/1">
+    <module_version install_time="1408982799473" last="false" origin="installer" specification_version="1.13.1">
+        <file crc="1141697199" name="config/Modules/org-netbeans-modules-debugger-jpda-visual.xml"/>
+        <file crc="3041991051" name="modules/locale/org-netbeans-modules-debugger-jpda-visual_ja.jar"/>
+        <file crc="2076605027" name="modules/locale/org-netbeans-modules-debugger-jpda-visual_pt_BR.jar"/>
+        <file crc="3930931828" name="modules/locale/org-netbeans-modules-debugger-jpda-visual_ru.jar"/>
+        <file crc="545242610" name="modules/locale/org-netbeans-modules-debugger-jpda-visual_zh_CN.jar"/>
+        <file crc="1945721830" name="modules/org-netbeans-modules-debugger-jpda-visual.jar"/>
+    </module_version>
+    <module_version install_time="1505244771137" last="true" origin="NetBeans Distribution" specification_version="1.13.3">
+        <file crc="1141697199" name="config/Modules/org-netbeans-modules-debugger-jpda-visual.xml"/>
+        <file crc="891768677" name="modules/locale/org-netbeans-modules-debugger-jpda-visual_ja.jar"/>
+        <file crc="795231584" name="modules/locale/org-netbeans-modules-debugger-jpda-visual_pt_BR.jar"/>
+        <file crc="3971931612" name="modules/locale/org-netbeans-modules-debugger-jpda-visual_ru.jar"/>
+        <file crc="1042836280" name="modules/locale/org-netbeans-modules-debugger-jpda-visual_zh_CN.jar"/>
+        <file crc="2646044672" name="modules/org-netbeans-modules-debugger-jpda-visual.jar"/>
+    </module_version>
+</module>

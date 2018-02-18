@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.extbrowser.chrome">
+    <module_version install_time="1408982094943" last="false" origin="installer" specification_version="1.8.1">
+        <file crc="107333246" name="config/Modules/org-netbeans-modules-extbrowser-chrome.xml"/>
+        <file crc="1743081545" name="modules/lib/netbeans-chrome-connector.crx"/>
+        <file crc="4288589827" name="modules/locale/org-netbeans-modules-extbrowser-chrome_ja.jar"/>
+        <file crc="3764133306" name="modules/locale/org-netbeans-modules-extbrowser-chrome_pt_BR.jar"/>
+        <file crc="1608481451" name="modules/locale/org-netbeans-modules-extbrowser-chrome_ru.jar"/>
+        <file crc="680284444" name="modules/locale/org-netbeans-modules-extbrowser-chrome_zh_CN.jar"/>
+        <file crc="1465905955" name="modules/org-netbeans-modules-extbrowser-chrome.jar"/>
+    </module_version>
+    <module_version install_time="1505244764597" last="true" origin="NetBeans Distribution" specification_version="1.8.2">
+        <file crc="107333246" name="config/Modules/org-netbeans-modules-extbrowser-chrome.xml"/>
+        <file crc="1460032866" name="modules/lib/netbeans-chrome-connector.crx"/>
+        <file crc="958410" name="modules/locale/org-netbeans-modules-extbrowser-chrome_ja.jar"/>
+        <file crc="1932812088" name="modules/locale/org-netbeans-modules-extbrowser-chrome_pt_BR.jar"/>
+        <file crc="2742405741" name="modules/locale/org-netbeans-modules-extbrowser-chrome_ru.jar"/>
+        <file crc="1898643320" name="modules/locale/org-netbeans-modules-extbrowser-chrome_zh_CN.jar"/>
+        <file crc="132835708" name="modules/org-netbeans-modules-extbrowser-chrome.jar"/>
+    </module_version>
+</module>

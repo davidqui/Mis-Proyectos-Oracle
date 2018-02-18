@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:p="http://primefaces.org/ui">
+    <h:head>
+        <title>Facelet Title</title>
+    </h:head>
+    <h:body>
+        <f:view>
+            <h:form>
+                <ui:include src="menuSuperior.xhtml" />
+                <ui:include src="menuIzquierda.xhtml" /> 
+                <h:panelGroup styleClass="content">
+                    <h:outputText styleClass="content content_h2" value="Confirmacion Orden"/>
+                    <h:panelGroup
+                        rendered="#{peliculasBean.codigoReserva != ''}"
+                        styleClass="info block"
+                        >
+                        <h:outputText value="Gracias por su Compra"/>
+                        <f:verbatim><br /></f:verbatim>
+                        <h:outputText value="Su numero de Confirmacion es: #{peliculasBean.codigoReserva}"/>
+                        <center><p:graphicImage value="#{peliculasBean.image}">
+                            <f:param name="filename" value="#{peliculasBean.archivo}"/>
+                        </p:graphicImage></center>
+                    </h:panelGroup>
+                    <h:outputText
+                        styleClass="error"
+                        rendered="#{peliculasBean.codigoReserva == ''}" 
+                        value="Ha ocurrido un error al realizar su reserva. Contacte al Administrador!"
+                        />
+                </h:panelGroup>
+            </h:form>
+        </f:view>
+    </h:body>
+</html>

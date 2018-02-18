@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.javaee.wildfly/1">
+    <module_version install_time="1408982529815" last="false" origin="installer" specification_version="1.0.19">
+        <file crc="1171290859" name="config/Modules/org-netbeans-modules-javaee-wildfly.xml"/>
+        <file crc="3200922007" name="modules/locale/org-netbeans-modules-javaee-wildfly_ja.jar"/>
+        <file crc="655649896" name="modules/locale/org-netbeans-modules-javaee-wildfly_pt_BR.jar"/>
+        <file crc="1687250928" name="modules/locale/org-netbeans-modules-javaee-wildfly_ru.jar"/>
+        <file crc="2925305973" name="modules/locale/org-netbeans-modules-javaee-wildfly_zh_CN.jar"/>
+        <file crc="1957238818" name="modules/org-netbeans-modules-javaee-wildfly.jar"/>
+    </module_version>
+    <module_version install_time="1505244783690" last="true" origin="NetBeans Distribution" specification_version="1.0.20">
+        <file crc="1171290859" name="config/Modules/org-netbeans-modules-javaee-wildfly.xml"/>
+        <file crc="1720834166" name="modules/locale/org-netbeans-modules-javaee-wildfly_ja.jar"/>
+        <file crc="3280752276" name="modules/locale/org-netbeans-modules-javaee-wildfly_pt_BR.jar"/>
+        <file crc="2630425186" name="modules/locale/org-netbeans-modules-javaee-wildfly_ru.jar"/>
+        <file crc="4152900364" name="modules/locale/org-netbeans-modules-javaee-wildfly_zh_CN.jar"/>
+        <file crc="3842486973" name="modules/org-netbeans-modules-javaee-wildfly.jar"/>
+    </module_version>
+</module>

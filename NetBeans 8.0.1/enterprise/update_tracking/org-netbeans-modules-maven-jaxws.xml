@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.jaxws">
+    <module_version install_time="1408982628604" last="true" origin="installer" specification_version="1.27.1">
+        <file crc="4133509653" name="config/Modules/org-netbeans-modules-maven-jaxws.xml"/>
+        <file crc="4089502556" name="modules/locale/org-netbeans-modules-maven-jaxws_ja.jar"/>
+        <file crc="2078804620" name="modules/locale/org-netbeans-modules-maven-jaxws_pt_BR.jar"/>
+        <file crc="3286003113" name="modules/locale/org-netbeans-modules-maven-jaxws_ru.jar"/>
+        <file crc="3424098003" name="modules/locale/org-netbeans-modules-maven-jaxws_zh_CN.jar"/>
+        <file crc="4012140759" name="modules/org-netbeans-modules-maven-jaxws.jar"/>
+    </module_version>
+</module>

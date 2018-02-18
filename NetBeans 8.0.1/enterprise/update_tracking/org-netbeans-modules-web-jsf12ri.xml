@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.jsf12ri/1">
+    <module_version install_time="1408978504421" last="true" origin="installer" specification_version="1.24.1.12">
+        <file crc="3165745118" name="config/Modules/org-netbeans-modules-web-jsf12ri.xml"/>
+        <file crc="1471695963" name="modules/ext/jsf-1_2/commons-beanutils.jar"/>
+        <file crc="1100951739" name="modules/ext/jsf-1_2/commons-collections.jar"/>
+        <file crc="4229416114" name="modules/ext/jsf-1_2/commons-digester.jar"/>
+        <file crc="1368605250" name="modules/ext/jsf-1_2/commons-logging.jar"/>
+        <file crc="2380161836" name="modules/ext/jsf-1_2/jsf-impl.jar"/>
+        <file crc="2825383752" name="modules/locale/org-netbeans-modules-web-jsf12ri_ja.jar"/>
+        <file crc="3709587831" name="modules/locale/org-netbeans-modules-web-jsf12ri_pt_BR.jar"/>
+        <file crc="2427606262" name="modules/locale/org-netbeans-modules-web-jsf12ri_ru.jar"/>
+        <file crc="2129680213" name="modules/locale/org-netbeans-modules-web-jsf12ri_zh_CN.jar"/>
+        <file crc="3283808660" name="modules/org-netbeans-modules-web-jsf12ri.jar"/>
+    </module_version>
+</module>

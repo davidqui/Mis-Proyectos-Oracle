@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.api.debugger/1">
+    <module_version install_time="1408979575550" last="false" origin="installer" specification_version="1.46.1">
+        <file crc="3559887295" name="config/Modules/org-netbeans-api-debugger.xml"/>
+        <file crc="1312688274" name="modules/locale/org-netbeans-api-debugger_ja.jar"/>
+        <file crc="3755919281" name="modules/locale/org-netbeans-api-debugger_pt_BR.jar"/>
+        <file crc="3254545769" name="modules/locale/org-netbeans-api-debugger_ru.jar"/>
+        <file crc="327569362" name="modules/locale/org-netbeans-api-debugger_zh_CN.jar"/>
+        <file crc="935112390" name="modules/org-netbeans-api-debugger.jar"/>
+    </module_version>
+    <module_version install_time="1505244759126" last="true" origin="NetBeans Distribution" specification_version="1.46.2">
+        <file crc="3559887295" name="config/Modules/org-netbeans-api-debugger.xml"/>
+        <file crc="1528777409" name="modules/locale/org-netbeans-api-debugger_ja.jar"/>
+        <file crc="1423813404" name="modules/locale/org-netbeans-api-debugger_pt_BR.jar"/>
+        <file crc="3847590446" name="modules/locale/org-netbeans-api-debugger_ru.jar"/>
+        <file crc="215064654" name="modules/locale/org-netbeans-api-debugger_zh_CN.jar"/>
+        <file crc="2178433564" name="modules/org-netbeans-api-debugger.jar"/>
+    </module_version>
+</module>

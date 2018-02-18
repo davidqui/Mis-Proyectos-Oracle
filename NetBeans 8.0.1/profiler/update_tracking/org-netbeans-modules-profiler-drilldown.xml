@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.profiler.drilldown/1">
+    <module_version install_time="1408979411800" last="true" origin="installer" specification_version="1.12.1">
+        <file crc="1954443436" name="config/Modules/org-netbeans-modules-profiler-drilldown.xml"/>
+        <file crc="1325645294" name="modules/locale/org-netbeans-modules-profiler-drilldown_ja.jar"/>
+        <file crc="1410145959" name="modules/locale/org-netbeans-modules-profiler-drilldown_pt_BR.jar"/>
+        <file crc="1404823710" name="modules/locale/org-netbeans-modules-profiler-drilldown_ru.jar"/>
+        <file crc="3230163443" name="modules/locale/org-netbeans-modules-profiler-drilldown_zh_CN.jar"/>
+        <file crc="72226909" name="modules/org-netbeans-modules-profiler-drilldown.jar"/>
+    </module_version>
+</module>

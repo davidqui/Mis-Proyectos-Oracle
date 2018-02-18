@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.html.editor/2">
+    <module_version install_time="1408981937564" last="false" origin="installer" specification_version="2.49.1">
+        <file crc="2913530181" name="config/Modules/org-netbeans-modules-html-editor.xml"/>
+        <file crc="3385998137" name="docs/html-4.01.zip"/>
+        <file crc="1714343015" name="modules/locale/org-netbeans-modules-html-editor_ja.jar"/>
+        <file crc="1429133377" name="modules/locale/org-netbeans-modules-html-editor_pt_BR.jar"/>
+        <file crc="1704556119" name="modules/locale/org-netbeans-modules-html-editor_ru.jar"/>
+        <file crc="4259074142" name="modules/locale/org-netbeans-modules-html-editor_zh_CN.jar"/>
+        <file crc="1181841360" name="modules/org-netbeans-modules-html-editor.jar"/>
+    </module_version>
+    <module_version install_time="1505244757882" last="true" origin="NetBeans Distribution" specification_version="2.49.2">
+        <file crc="2913530181" name="config/Modules/org-netbeans-modules-html-editor.xml"/>
+        <file crc="3385998137" name="docs/html-4.01.zip"/>
+        <file crc="2050794167" name="modules/locale/org-netbeans-modules-html-editor_ja.jar"/>
+        <file crc="4166078204" name="modules/locale/org-netbeans-modules-html-editor_pt_BR.jar"/>
+        <file crc="2299776224" name="modules/locale/org-netbeans-modules-html-editor_ru.jar"/>
+        <file crc="466310104" name="modules/locale/org-netbeans-modules-html-editor_zh_CN.jar"/>
+        <file crc="217513414" name="modules/org-netbeans-modules-html-editor.jar"/>
+    </module_version>
+</module>

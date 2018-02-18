@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.mylyn.util">
+    <module_version install_time="1408979932356" last="true" origin="installer" specification_version="1.28.1">
+        <file crc="1042579023" name="config/Modules/org-netbeans-modules-mylyn-util.xml"/>
+        <file crc="2022492515" name="modules/locale/org-netbeans-modules-mylyn-util_ja.jar"/>
+        <file crc="1490659279" name="modules/locale/org-netbeans-modules-mylyn-util_pt_BR.jar"/>
+        <file crc="93895145" name="modules/locale/org-netbeans-modules-mylyn-util_ru.jar"/>
+        <file crc="860358033" name="modules/locale/org-netbeans-modules-mylyn-util_zh_CN.jar"/>
+        <file crc="2732060956" name="modules/org-netbeans-modules-mylyn-util.jar"/>
+    </module_version>
+</module>

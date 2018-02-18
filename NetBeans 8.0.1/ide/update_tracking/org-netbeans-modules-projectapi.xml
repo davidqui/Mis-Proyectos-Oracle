@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.projectapi/1">
+    <module_version install_time="1408979552596" last="false" origin="installer" specification_version="1.60.1">
+        <file crc="2566874220" name="config/ModuleAutoDeps/org-netbeans-modules-projectapi.xml"/>
+        <file crc="1088517943" name="config/Modules/org-netbeans-modules-projectapi.xml"/>
+        <file crc="3926811270" name="modules/locale/org-netbeans-modules-projectapi_ja.jar"/>
+        <file crc="855836257" name="modules/locale/org-netbeans-modules-projectapi_pt_BR.jar"/>
+        <file crc="3026295323" name="modules/locale/org-netbeans-modules-projectapi_ru.jar"/>
+        <file crc="1159997112" name="modules/locale/org-netbeans-modules-projectapi_zh_CN.jar"/>
+        <file crc="705380866" name="modules/org-netbeans-modules-projectapi.jar"/>
+    </module_version>
+    <module_version install_time="1505244759995" last="true" origin="NetBeans Distribution" specification_version="1.60.2">
+        <file crc="2566874220" name="config/ModuleAutoDeps/org-netbeans-modules-projectapi.xml"/>
+        <file crc="1088517943" name="config/Modules/org-netbeans-modules-projectapi.xml"/>
+        <file crc="1226261931" name="modules/locale/org-netbeans-modules-projectapi_ja.jar"/>
+        <file crc="2251636074" name="modules/locale/org-netbeans-modules-projectapi_pt_BR.jar"/>
+        <file crc="3067017970" name="modules/locale/org-netbeans-modules-projectapi_ru.jar"/>
+        <file crc="2214094299" name="modules/locale/org-netbeans-modules-projectapi_zh_CN.jar"/>
+        <file crc="107225528" name="modules/org-netbeans-modules-projectapi.jar"/>
+    </module_version>
+</module>

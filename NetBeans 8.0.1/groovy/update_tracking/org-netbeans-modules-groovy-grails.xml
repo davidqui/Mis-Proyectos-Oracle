@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.groovy.grails">
+    <module_version install_time="1408982348523" last="true" origin="installer" specification_version="1.40.1">
+        <file crc="522918030" name="config/Modules/org-netbeans-modules-groovy-grails.xml"/>
+        <file crc="746483714" name="modules/locale/org-netbeans-modules-groovy-grails_ja.jar"/>
+        <file crc="2707901364" name="modules/locale/org-netbeans-modules-groovy-grails_pt_BR.jar"/>
+        <file crc="3120352253" name="modules/locale/org-netbeans-modules-groovy-grails_ru.jar"/>
+        <file crc="3962366891" name="modules/locale/org-netbeans-modules-groovy-grails_zh_CN.jar"/>
+        <file crc="3788606326" name="modules/org-netbeans-modules-groovy-grails.jar"/>
+    </module_version>
+</module>
